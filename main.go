@@ -15,7 +15,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/afoninsky/mcp-yeelight/yeelight"
+	"github.com/afoninsky/yeelight/yeelight"
 )
 
 var (

@@ -1,3 +1,3 @@
-module github.com/afoninsky/mcp-yeelight
+module github.com/afoninsky/yeelight
 
 go 1.24.3
