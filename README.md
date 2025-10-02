@@ -15,7 +15,7 @@ go run main.go <script_name> [interval_ms] [timeout_s]
 
 ### Environment Variables:
 - `YEELIGHT_ADDR`: Yeelight address (default: 192.168.1.118:55443)
-- `SCRIPTS_PATH`: Path to scripts folder (default: ./scripts)
+- `YEELIGHT_SCRIPTS`: Path to scripts folder (default: ./scripts)
 
 ### Examples:
 
@@ -27,7 +27,7 @@ go run main.go spinner 200 10
 YEELIGHT_ADDR=192.168.1.100:55443 go run main.go wave
 
 # Run corners animation from custom scripts path
-SCRIPTS_PATH=/home/user/my-scripts go run main.go corners 300
+YEELIGHT_SCRIPTS=/home/user/my-scripts go run main.go corners 300
 ```
 
 ## Available Scripts
