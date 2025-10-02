@@ -1,0 +1,27 @@
+CLEAR
+PIXEL 2 0 white
+
+CLEAR
+PIXEL 3 0 white
+PIXEL 3 1 white
+
+CLEAR
+PIXEL 4 2 white
+
+CLEAR
+PIXEL 3 3 white
+PIXEL 3 4 white
+
+CLEAR
+PIXEL 2 4 white
+
+CLEAR
+PIXEL 1 3 white
+PIXEL 1 4 white
+
+CLEAR
+PIXEL 0 2 white
+
+CLEAR
+PIXEL 1 1 white
+PIXEL 1 0 white

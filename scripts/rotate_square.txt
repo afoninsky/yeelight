@@ -1,0 +1,9 @@
+RECT 1 1 3 3 cyan
+
+ROTATE 90
+
+ROTATE 90
+
+ROTATE 90
+
+CLEAR

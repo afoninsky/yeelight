@@ -1,0 +1,35 @@
+COL 0 blue
+
+COL 1 blue
+COL 0 cyan
+
+COL 2 blue
+COL 1 cyan
+COL 0 white
+
+COL 3 blue
+COL 2 cyan
+COL 1 white
+CLEAR
+
+COL 4 blue
+COL 3 cyan
+COL 2 white
+COL 1 cyan
+COL 0 blue
+
+COL 4 cyan
+COL 3 white
+COL 2 cyan
+COL 1 blue
+
+COL 4 white
+COL 3 cyan
+COL 2 blue
+
+COL 4 cyan
+COL 3 blue
+
+COL 4 blue
+
+CLEAR

@@ -1,0 +1,15 @@
+CLEAR
+PIXEL 0 0 yellow
+PIXEL 4 0 yellow
+PIXEL 0 4 yellow
+PIXEL 4 4 yellow
+
+CLEAR
+
+CLEAR
+PIXEL 0 0 yellow
+PIXEL 4 0 yellow
+PIXEL 0 4 yellow
+PIXEL 4 4 yellow
+
+CLEAR

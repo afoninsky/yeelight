@@ -1,0 +1,17 @@
+ROW 0 magenta
+
+ROW 1 magenta
+ROW 0 purple
+
+ROW 2 magenta
+ROW 1 purple
+
+ROW 3 magenta
+ROW 2 purple
+
+ROW 4 magenta
+ROW 3 purple
+
+ROW 4 purple
+
+CLEAR

@@ -1,0 +1,11 @@
+FILL white
+
+DIM 0.8
+
+DIM 0.6
+
+DIM 0.4
+
+DIM 0.2
+
+CLEAR

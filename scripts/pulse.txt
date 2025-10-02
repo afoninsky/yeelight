@@ -1,0 +1,20 @@
+CLEAR
+PIXEL 2 2 white
+
+CLEAR
+PIXEL 2 2 white
+RING 2 2 1 white
+
+CLEAR
+PIXEL 2 2 white
+RING 2 2 1 white
+RING 2 2 2 white
+
+CLEAR
+RING 2 2 1 white
+RING 2 2 2 white
+
+CLEAR
+RING 2 2 2 white
+
+CLEAR

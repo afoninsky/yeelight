@@ -1,0 +1,26 @@
+CLEAR
+CROSS 2 2 1 red
+
+CLEAR
+CROSS 2 2 2 red
+
+CLEAR
+CROSS 2 2 1 orange
+CROSS 2 2 2 red
+
+CLEAR
+CROSS 2 2 1 yellow
+CROSS 2 2 2 orange
+
+CLEAR
+CROSS 2 2 1 green
+CROSS 2 2 2 yellow
+
+CLEAR
+CROSS 2 2 1 blue
+CROSS 2 2 2 green
+
+CLEAR
+CROSS 2 2 2 blue
+
+CLEAR
