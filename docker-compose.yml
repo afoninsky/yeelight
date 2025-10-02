@@ -1,0 +1,15 @@
+services:
+  yeelight:
+    build: .
+    container_name: yeelight-controller
+    ports:
+      - "3048:3048"
+    environment:
+      - YEELIGHT_ADDR=192.168.1.118:55443 # Change to your Yeelight IP
+      - YEELIGHT_HTTP=:3048
+      - YEELIGHT_SCRIPTS=/scripts
+    volumes:
+      - ./scripts:/scripts:ro # Mount scripts directory as read-only
+    restart: unless-stopped
+    networks:
+      - default
